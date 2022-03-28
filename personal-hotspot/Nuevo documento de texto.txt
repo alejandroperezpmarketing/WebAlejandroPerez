@@ -1,0 +1,4 @@
+<!-- Primer trabajo en la cátedra de innovación -->
+                                        <li><a href="#" data-date="06/10/2016" class="older-event selected">2016</a></li>
+                                        <!-- Practicas en natura constrauctiva y la fundación natura life -->
+                                        <li><a href="#" data-date="01/08/2017" style="left: 200px;">2017</a></li>
